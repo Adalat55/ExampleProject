@@ -1,0 +1,7 @@
+1. Create a public repo
+2. Using dotnet (any version), Selenium with local chrome driver, write     a scenario that:
+       a. navigates to The Internet (the-internet.herokuapp.com)
+        b. adds n number of elements
+              c. asserts that n number of elements exist on the page
+Bonus points if you can run it with GitHub actions and output a report
+This is the task I got from the company
